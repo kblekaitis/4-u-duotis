@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+    font-family: "Roboto";
+    margin: 30px auto;
+    text-align:left;
+    font-family:'Open-Sans', sans-serif;
+}
+
+th,
+td {
+    border: 3px solid rgb(0, 0, 0);
+    padding: 15px;
+    width: 150px;
+    font-size: 1.2em;
+}
+
+.bold{
+    font-weight:bold;
+    width:250px;
+}
+
+.oranz{
+    background:orange;
+}
+
+.mel{
+    background:blue;
+}
+
+.zal{
+    background:green;
+}
+
+.white{ 
+    color:white;
+}
